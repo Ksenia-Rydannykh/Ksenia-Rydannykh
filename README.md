@@ -1,4 +1,4 @@
-👋 **Hi there!**  
+**Hi there! 👋**  
 
 - 🌟 Passionate about data science, currently pursuing a **Master’s in Data Analytics @ QUT** (Computational Data Science major).  
 
